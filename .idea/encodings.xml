@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/DiretorioDoacaoForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/DoacaoForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/DoarElementos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/EmpresaForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/MarcaForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/SelecionarDiretorioForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/view/SetorForm.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/lenito/workbook/DoacaoWB.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
